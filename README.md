@@ -13,7 +13,7 @@ Please compile like command :
 ```
 
 ### Please Look
-[MOtion Gold-World DEMO](http://okaal.html.xdomain.jp/logs/generative-art/flash/world_light.html)
+[Motion Gold-World DEMO](http://okaal.html.xdomain.jp/logs/generative-art/flash/world_light.html)
 
 ### ScreenShot 
 ![ScreenShot](https://github.com/jirotubuyaki/Gold-World/blob/master/screenshot.png)  
