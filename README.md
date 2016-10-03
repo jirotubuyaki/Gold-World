@@ -12,6 +12,9 @@ Please compile like command :
 > mxmlc -default-size 800 800 -default-background-color=#000000 Main.as
 ```
 
+### Please Look
+[MOtion Gold-World DEMO](http://okaal.html.xdomain.jp/logs/generative-art/flash/world_light.html)
+
 ### ScreenShot 
 ![ScreenShot](https://github.com/jirotubuyaki/Gold-World/blob/master/screenshot.png)  
 
